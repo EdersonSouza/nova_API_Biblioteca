@@ -1,0 +1,7 @@
+logs
+public/apidoc
+libs/config.development.js
+libs/config.production.js
+libs/config.test.js
+libs/avatar.config.json
+node_modules
